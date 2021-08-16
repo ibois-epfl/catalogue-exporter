@@ -1,0 +1,12 @@
+{
+  "name": "catalogue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "sirv --no-clear --host"
+  },
+  "dependencies": {
+    "sirv-cli": "^1.0.0"
+  }
+}
