@@ -16,5 +16,5 @@ You need to have [Rhino 7](https://www.rhino3d.com) installed on your Windows co
 The plugin adds the command: `CatalogueExporter` to Rhino. For now, the use of this command is restricted to the workflow [described here](https://github.com/ibois-epfl/eesd-ibois-scanned-stones-dataset).
 
 In addition, the following commands allow batch execution of some Cockroach commands (execute the given command with same parameters to a set of point clouds):
-- Cockroach_MeshPoissonBatch
-- Cockroach_ComputeNormalsBatch
+- `Cockroach_MeshPoissonBatch`
+- `Cockroach_ComputeNormalsBatch`
