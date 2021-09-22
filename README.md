@@ -4,7 +4,7 @@ A Rhinoceros 3D plugin for exporting point cloud dataset to a [web-based catalog
 
 ## Download and installation
 
-You need to have Rhino 7 installed on your Windows computer
+You need to have [Rhino 7](https://www.rhino3d.com) installed on your Windows computer. [Cockroach for Rhino](https://www.food4rhino.com/en/app/cockroach) and [Iris for Rhino](https://www.food4rhino.com/en/app/iris-export-rhino-models-web) plugins are also required.
 
 1. Head to the [Release section](https://github.com/ibois-epfl/catalogue-exporter/releases/) of this repo and download the latest *.rhi asset.
 2. If open, close Rhino
